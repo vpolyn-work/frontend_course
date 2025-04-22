@@ -1,0 +1,63 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.main {}
+
+.header {}
+
+.logo {}
+
+.navigation {}
+
+.navigation-items {}
+
+.navigation-item {}
+
+.navigation-link {}
+
+.actions-bar {}
+
+.content {}
+
+.main-section {}
+
+.main-bg {}
+
+.main-header {}
+
+.footer {}
+
+.footer-topline {}
+
+.footer-links {}
+
+.links {}
+
+.nav-item {}
+
+.nav-link {}
+
+.address-line {}
+
+.address {}
+
+.address-top {}
+
+.address-content {}
+
+.contacts {}
+
+.contacts-top {}
+
+.contacts-content {}
+
+.social-media {}
+
+.copyrights {}
